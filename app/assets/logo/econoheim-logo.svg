@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="80" viewBox="0 0 360 80">
+<title>Econoheim logo</title>
+<g transform="translate(6 1) scale(1.55)">
+<path d="M16 44c6-8-3-13 2-21 4-6-1-10 3-16" fill="none" stroke="#28613D" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M18 33C11 31 7 34 6 39c6 1 10-1 12-6Z" fill="#28613D"/>
+<path d="M18 24c6-5 11-3 13 1-4 4-9 4-13-1Z" fill="#28613D"/>
+<path d="M20 16c-6-1-9 2-10 6 5 1 8-1 10-6Z" fill="#28613D"/>
+<path d="M21 8c1-5 5-7 9-6 0 4-3 7-9 6Z" fill="#8BA653"/>
+</g>
+<text x="72" y="55" fill="#173023" font-family="Arial, sans-serif" font-size="42" font-weight="600" letter-spacing="-2.5">econoheim</text>
+</svg>
